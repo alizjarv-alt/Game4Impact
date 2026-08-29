@@ -12,7 +12,6 @@ Etapa 1: Reconocimiento del entorno y armado de equipos con SCV
 - 🎭 Rol: Diseñadora de juego (asumiendo todos los roles del equipo)  
 - ✨ Perfil breve: Estudiante apasionada por el desarrollo de videojuegos con propósito social, enfocada en unir creatividad y tecnología para generar impacto positivo.  
 
-<<<<<<< HEAD
 ![Foto personal](Allison/foto perfil.jpg)
 =======
 
@@ -20,7 +19,7 @@ Etapa 1: Reconocimiento del entorno y armado de equipos con SCV
 
 ## 🍽️ Imagen de mi plato favorito
 Dentro de la carpeta **Allison** se incluye la imagen de mi plato favorito (*pescado asado*).
-<<<<<<< HEAD
+
 ![Imagen de mi plato favorito](Allison/comida favorita.jpeg)
 =======
 
