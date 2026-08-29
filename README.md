@@ -12,16 +12,17 @@ Etapa 1: Reconocimiento del entorno y armado de equipos con SCV
 - 🎭 Rol: Diseñadora de juego (asumiendo todos los roles del equipo)  
 - ✨ Perfil breve: Estudiante apasionada por el desarrollo de videojuegos con propósito social, enfocada en unir creatividad y tecnología para generar impacto positivo.  
 
-![Foto personal](Allison/foto.jpg)
+![Foto personal](Allison/foto perfil.jpg)
 
 ---
 
 ## 🍽️ Imagen de mi plato favorito
-Dentro de la carpeta **Allison** se incluye la imagen de mi plato favorito (*bandeja paisa*).
-
+Dentro de la carpeta **Allison** se incluye la imagen de mi plato favorito (*pescado asado*).
+![Imagen de mi plato favorito](Allison/comida favorita.jpeg)
 ---
 
-## 📌 Propósito del repositorio
+## 📌 Propósito del repositorio 
+
 Este repositorio se utiliza para:
 - Practicar el uso de **GitHub** como sistema de control de versiones.  
 - Documentar el trabajo colaborativo del curso.  
